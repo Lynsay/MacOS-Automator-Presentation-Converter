@@ -12,9 +12,10 @@ Keynote must be installed.
 This converter only works for .ppt, .pptx, and .key files.  It has been tested with PowerPoint version 16.51 (365 Subscription) and Keynote version 11.1 (7031.0.102) on MacOS Catalina version 10.15.7. Your mileage may vary.
 
 ## 👾 Installation
-There are two methods of installation- choose whichever one works for you.
+There are two methods of installation - choose whichever one works for you.
 
 ### ⏱ The Quick Method
+Unzip the <a href="https://github.com/Lynsay/MacOS-Automator-Presentation-Converter/blob/main/PowerPoint%20or%20Keynote%20to%20PDF.workflow.zip">PowerPoint or Keynote to PDF.workflow.zip</a> file in this repo, and double-click to install the workflow.
 
 ### ⏳ The Less Quick Method
 
