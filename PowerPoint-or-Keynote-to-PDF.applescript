@@ -1,12 +1,11 @@
-(*
-	Desc: Create an AppleScript Quick Action to convert selected .ppt, .pptx, and .key files to PDF using Keynote.
+-- Desc: Create an AppleScript Quick Action to convert selected .ppt, .pptx, and .key files to PDF using Keynote.
+
+-- Author: Lynsay A. Shepherd
 	
-	Author: Lynsay A. Shepherd
+-- Date: August 2021
 	
-	Date: August 2021
-	
-	Reference: https://stackoverflow.com/a/63804087
-*)
+-- Reference: https://stackoverflow.com/a/63804087
+
 
 on run {input, parameters}
 	repeat with theFile in input
@@ -17,7 +16,6 @@ on run {input, parameters}
 			tell application "Keynote"
 				set theDoc to open theFile
 				set theDocName to name of theDoc
-				#set theName to (characters 1 thru -7 of theDocName)
 				set thePDFPath to (folderPath & fileName & ".pdf")
 				export theDoc to file thePDFPath as PDF
 				close theDoc
