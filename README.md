@@ -23,6 +23,7 @@ Unzip the <a href="https://github.com/Lynsay/MacOS-Automator-Presentation-Conver
 
 ### ⏳ The Less Quick Method
 1. Open Automator.app.
+<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/Automator.png" alt="Automator" width="300"/>
 2. Select "Quick Action" as the document type.
 3. Select "Run AppleScript" as the action.
 4. Edit the workflow process.  The workflow should receive current documents in Finder.app.  You can ignore the "input is" option, along with the image and colour.
