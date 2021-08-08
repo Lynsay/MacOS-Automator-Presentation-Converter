@@ -23,15 +23,19 @@ Unzip the <a href="https://github.com/Lynsay/MacOS-Automator-Presentation-Conver
 
 ### ⏳ The Less Quick Method
 - Open Automator.app.
-<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/Automator.png" alt="Automator" width="300"/>
+<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/gfx/Automator.png" alt="Automator" width="300"/>
 
 - Select "Quick Action" as the document type.
+<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/gfx/SelectQuickAction.png" alt="Select QuickAction" width="300"/>
 
 - Select "Run AppleScript" as the action.
+<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/gfx/RunAppleScript.png" alt="Run AppleScript" width="300"/>
 
 - Edit the workflow process.  The workflow should receive current documents in Finder.app.  You can ignore the "input is" option, along with the image and colour.
+<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/gfx/WorkflowProcess.png" alt="Workflow Process" width="300"/>
 
-- Paste the AppleScript provided in this repo into the code editor, hit save, and choose a name.
+- Paste the <a href="https://github.com/Lynsay/MacOS-Automator-Presentation-Converter/blob/main/PowerPoint-or-Keynote-to-PDF.applescript">AppleScript provided in this repo</a> into the code editor, hit save, and choose a name.
+<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/gfx/PasteAppleScript.png" alt="Paste AppleScript" width="300"/>
 
 - The Quick Action is ready to use and appears on the contextual menu.
 <img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/gfx/PDFAutomatorScreenshot.png" alt="Converter Screenshot" width="400"/>
