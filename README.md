@@ -13,3 +13,7 @@ This converter only works for .ppt, .pptx, and .key files.  It has been tested w
 
 ## 📖 References
 The following post from <a href="https://stackoverflow.com/users/10853463/red-menace">red_menace</a> on Stack Overflow was particularly useful for separating parts of the file path- <a href="https://stackoverflow.com/a/63804087">https://stackoverflow.com/a/63804087</a>.
+
+## 🖼 Screenshot
+
+<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/master/PDF-Automator-Screenshot.png" alt="Converter Screenshot" width="400"/>
