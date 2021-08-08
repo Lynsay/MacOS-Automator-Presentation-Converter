@@ -23,7 +23,7 @@ Unzip the <a href="https://github.com/Lynsay/MacOS-Automator-Presentation-Conver
 
 ### ⏳ The Less Quick Method
 - Open Automator.app.
-<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/gfx/Automator.png" alt="Automator" height="300"/>
+<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/gfx/Automator.png" alt="Automator" width="200"/>
 
 - Select "Quick Action" as the document type.
 <img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/gfx/SelectQuickAction.png" alt="Select QuickAction" width="400"/>
