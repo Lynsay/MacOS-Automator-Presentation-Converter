@@ -16,4 +16,4 @@ The following post from <a href="https://stackoverflow.com/users/10853463/red-me
 
 ## 🖼 Screenshot
 
-<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/master/PDF-Automator-Screenshot.png" alt="Converter Screenshot" width="400"/>
+<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/PDF-Automator-Screenshot.png?token=ABQFTYJXGMKE6FFAOWGSJHLBDB3OA" alt="Converter Screenshot" width="400"/>
