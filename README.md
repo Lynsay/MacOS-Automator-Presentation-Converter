@@ -16,4 +16,5 @@ The following post from <a href="https://stackoverflow.com/users/10853463/red-me
 
 ## 🖼 Screenshot
 Screenshot of how the Quick Action appears on the contextual menu.
+
 <img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/PDF-Automator-Screenshot.png?token=ABQFTYJXGMKE6FFAOWGSJHLBDB3OA" alt="Converter Screenshot" width="400"/>
