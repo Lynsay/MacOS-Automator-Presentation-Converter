@@ -22,13 +22,18 @@ There are two methods of installation - choose whichever one works for you.
 Unzip the <a href="https://github.com/Lynsay/MacOS-Automator-Presentation-Converter/blob/main/PowerPoint%20or%20Keynote%20to%20PDF.workflow.zip">PowerPoint or Keynote to PDF.workflow.zip</a> file in this repo, and double-click to install the workflow.
 
 ### ⏳ The Less Quick Method
-1. Open Automator.app.
+- Open Automator.app.
 <img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/Automator.png" alt="Automator" width="300"/>
-2. Select "Quick Action" as the document type.
-3. Select "Run AppleScript" as the action.
-4. Edit the workflow process.  The workflow should receive current documents in Finder.app.  You can ignore the "input is" option, along with the image and colour.
-5. Paste the AppleScript provided in this repo into the code editor, hit save, and choose a name.
-6. The Quick Action is ready to use and appears on the contextual menu.
+
+- Select "Quick Action" as the document type.
+
+- Select "Run AppleScript" as the action.
+
+- Edit the workflow process.  The workflow should receive current documents in Finder.app.  You can ignore the "input is" option, along with the image and colour.
+
+- Paste the AppleScript provided in this repo into the code editor, hit save, and choose a name.
+
+- The Quick Action is ready to use and appears on the contextual menu.
 <img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/gfx/PDFAutomatorScreenshot.png" alt="Converter Screenshot" width="400"/>
 
 ## 📖 References
