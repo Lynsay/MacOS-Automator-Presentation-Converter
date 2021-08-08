@@ -27,12 +27,8 @@ Unzip the <a href="https://github.com/Lynsay/MacOS-Automator-Presentation-Conver
 3. Select "Run AppleScript" as the action.
 4. Edit the workflow process.  The workflow should receive current documents in Finder.app.  You can ignore the "input is" option, along with the image and colour.
 5. Paste the AppleScript provided in this repo into the code editor, hit save, and choose a name.
+6. The Quick Action is ready to use and appears on the contextual menu.
+<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/gfx/PDFAutomatorScreenshot.png" alt="Converter Screenshot" width="400"/>
 
 ## 📖 References
 The following post from <a href="https://stackoverflow.com/users/10853463/red-menace">red_menace</a> on Stack Overflow was particularly useful for separating parts of the file path- <a href="https://stackoverflow.com/a/63804087">https://stackoverflow.com/a/63804087</a>.
-
-
-## 🖼 Screenshot
-Screenshot of how the Quick Action appears on the contextual menu.
-
-<img src="https://raw.githubusercontent.com/Lynsay/MacOS-Automator-Presentation-Converter/main/PDF-Automator-Screenshot.png?token=ABQFTYJXGMKE6FFAOWGSJHLBDB3OA" alt="Converter Screenshot" width="400"/>
