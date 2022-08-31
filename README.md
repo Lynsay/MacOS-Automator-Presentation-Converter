@@ -12,7 +12,7 @@ Keynote must be installed.
 
 
 ## 🔨 Testing Notes
-This converter only works for .ppt, .pptx, and .key files.  It has been tested with PowerPoint version 16.51 (365 Subscription) and Keynote version 11.1 (7031.0.102) on MacOS Catalina version 10.15.7. Your mileage may vary.
+This converter only works for .ppt, .pptx, and .key files.  It has been tested with PowerPoint version 16.64 (365 Subscription) and Keynote version 12.1 (7034.0.86) on MacOS Monterey version 12.5. Your mileage may vary.
 
 
 ## 👾 Installation
